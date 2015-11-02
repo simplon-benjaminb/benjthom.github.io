@@ -1,0 +1,109 @@
+#bloc_page
+{
+	width: 97%;
+	margin: auto;
+}
+
+#auteurs
+{
+	background-color: #373E48;
+	margin-top: -30px;
+	padding-top: 3px;
+	height: 80px;
+	text-align: center;
+}
+
+h1
+{
+	font-size: 2.0em;
+	text-align: center;
+}
+
+#titre
+{
+	margin-top: -30px;
+	background-color: white;
+	color: red;
+}
+
+.flotte	{
+float:right;
+}
+
+.fin {
+	background-color: DC143C;
+ border-width:3px;
+ border-style:groove;
+ border-color:black;
+ }
+
+ .fin1,.fin2
+ {
+display: inline-block;
+
+vertical-align: top;
+
+ }
+
+
+
+ .fin1{
+margin: 1em auto;
+ }
+
+ .fin2{
+	 margin: 1em auto;
+margin-left: 75%;
+ }
+
+ .fin3{
+	 	background-color: white;
+	 border-width:3px;
+	 border-style:solid;
+	 border-color:black;
+margin-left: 83%;
+margin-top: -7%;
+ }
+
+ .rageux{
+	 margin: 1em auto;
+<<<<<<< HEAD
+	 margin-top: -5%;}
+
+ article {
+	background-color: DC143C;
+  border-width:3px;
+  border-style:groove;
+  border-color:black;
+}
+.article1,.article2,.article3
+{
+display: inline-block;
+
+vertical-align: top;
+margin: 1em auto;
+}
+.article2
+{
+margin-left: 85%;
+	 margin-top: -6%;
+}
+
+.article3
+
+{
+margin-left: 60%;
+	 margin-top: -9%;
+}
+.article3 img {
+	width:125px;
+	height:125px;
+	moz-border-radius:7px;
+webkit-border-radius:7px;
+border-radius:7px;
+}
+=======
+	 margin-top: -5%;
+
+ }
+>>>>>>> e0543009874eed09b0f39ea7ef318fe25982b604
